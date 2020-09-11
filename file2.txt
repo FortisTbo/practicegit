@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 text created in master
+=======
+text add directly itn the remote repository
+>>>>>>> secondbranch
